@@ -12,16 +12,18 @@ web development, backend engineering, and automation.
 
 <br>
 
-<a href="https://www.linkedin.com/in/rahma-jnayah">
-  <img src="https://img.shields.io/badge/LinkedIn-Rahma%20Jnayah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+## 🔗 Connect with me
+
+<a href="https://www.linkedin.com/in/rahma-jnayah-14a4a628">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:rahmajnayah45@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-rahmajnayah45%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/RahmaJnayah-">
-  <img src="https://img.shields.io/badge/GitHub-RahmaJnayah--181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Rahma_Jnayah">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -58,7 +60,7 @@ web development, backend engineering, and automation.
 ### 🗄️ Databases & API
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,postgres,postman" />
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,postman" />
 </p>
 
 ### ⚙️ Tools, DevOps & Automation
@@ -93,28 +95,6 @@ web development, backend engineering, and automation.
 <img src="https://img.shields.io/badge/AI--Powered%20Applications-00A98F?style=for-the-badge" />
 
 </p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RahmaJnayah-&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahmaJnayah-&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=RahmaJnayah-&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -180,37 +160,20 @@ contributing to student activities, technical initiatives, and community develop
 
 ## 🎯 What I'm Looking For
 
-I'm interested in opportunities where I can continue developing my technical
-skills while contributing to real-world projects.
+I am currently looking for a **PFE Internship** where I can apply my
+technical skills and contribute to real-world projects in:
 
-- 🎓 **PFE Internship**
-- 🤖 **AI / ML Engineering**
+- 🤖 **Artificial Intelligence / Machine Learning**
 - 🧠 **Deep Learning**
 - 💻 **Software Engineering**
 - ☕ **Backend Development**
 - 🌐 **Full-Stack Development**
-- 🚀 **AI-powered Applications**
+- 🚀 **AI-Powered Applications**
 - ⚙️ **Automation & DevOps**
 
 ---
 
-## 📫 Connect With Me
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/rahma-jnayah">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:rahmajnayah45@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/RahmaJnayah-">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
 
 ### 💡 Always learning. Always building. Always improving.
 
