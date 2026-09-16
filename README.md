@@ -1,6 +1,3 @@
-# RahmaJnayah-
-<div align="center">
-
 # Hi 👋, I'm Rahma Jnayah
 
 ### 🎓 Computer Science Student | 💻 Software Developer | 🏛️ IEEE Volunteer
@@ -10,7 +7,7 @@ Computer Science student at **ESSTHS** with a strong interest in
 I enjoy turning ideas into practical projects through machine learning,  
 web development, backend engineering, and automation.
 
-<br>
+---
 
 ## 🔗 Connect with me:
 
@@ -26,7 +23,6 @@ web development, backend engineering, and automation.
   </a>
 </p>
 
-
 ---
 
 ## 🚀 About Me
@@ -41,15 +37,18 @@ web development, backend engineering, and automation.
 - 💡 Passionate about learning, building, and solving real-world problems
 
 ---
+
 ## 🔗 Languages and Tools:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,spring,angular,bootstrap,mysql,postgres,oracle,git,github,docker,linux,postman,jira,n8n" />
 </p>
 
+---
+
 ## 🤖 AI & Technical Interests
 
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge" />
 
@@ -93,7 +92,7 @@ Participation in **IEEE Xtreme 19.0**, a global programming competition.
 
 **IEEE Volunteer — Chair**
 
-Actively involved in the IEEE Computer Society ESSTHS Student Branch,
+Actively involved in the IEEE Computer Society ESSTHS Student Branch,  
 contributing to student activities, technical initiatives, and community development.
 
 ---
@@ -127,7 +126,7 @@ contributing to student activities, technical initiatives, and community develop
 
 ## 🎯 What I'm Looking For
 
-I am currently looking for a **PFE Internship** where I can apply my
+I am currently looking for a **PFE Internship** where I can apply my  
 technical skills and contribute to real-world projects in:
 
 - 🤖 **Artificial Intelligence / Machine Learning**
@@ -140,8 +139,4 @@ technical skills and contribute to real-world projects in:
 
 ---
 
-<div align="center">
-
 ### 💡 Always learning. Always building. Always improving.
-
-</div>
