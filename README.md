@@ -12,21 +12,20 @@ web development, backend engineering, and automation.
 
 <br>
 
-## 🔗 Connect with me
+## 🔗 Connect with me:
 
-<a href="https://www.linkedin.com/in/rahma-jnayah-14a4a628">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rahma-jnayah-14a4a628" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rahmajnayah45@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Rahma_Jnayah" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+  </a>
+</p>
 
-<a href="mailto:rahmajnayah45@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/Rahma_Jnayah">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
@@ -42,43 +41,11 @@ web development, backend engineering, and automation.
 - 💡 Passionate about learning, building, and solving real-world problems
 
 ---
-
-## 🛠️ Languages & Tools
-
-### 💻 Programming Languages
+## 🔗 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,html,css,spring,angular,bootstrap,mysql,postgres,oracle,git,github,docker,linux,postman,jira,n8n" />
 </p>
-
-### 🌐 Frameworks & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,angular,bootstrap" />
-</p>
-
-### 🗄️ Databases & API
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,postman" />
-</p>
-
-### ⚙️ Tools, DevOps & Automation
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,n8n,jira" />
-</p>
-
-### 🔄 Methodologies & Concepts
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Agile-009FDA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Processing-FF6F00?style=for-the-badge" />
-</p>
-
----
 
 ## 🤖 AI & Technical Interests
 
